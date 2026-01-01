@@ -74,6 +74,8 @@ PALETTE = {
     "neutral": "dim",
     "warning": "yellow",
     "info": "cyan",
+    "foreign": "magenta",  # Foreign company indicator
+    "canadian": "red",  # Canadian company indicator
 
     # =========================================================================
     # FINANCIAL STATEMENTS - Row Types
